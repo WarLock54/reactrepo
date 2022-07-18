@@ -1,0 +1,28 @@
+/* .App {
+ 
+  display: flex;
+  justify-content: center;
+ flex-direction: column;
+ height:100px;
+ align-items: center;
+}
+.App.Siyah{
+  background-color: black;
+  color: #fff;
+}
+.App.Yeşil{
+  background-color: green;
+}
+
+.hatarapor{
+  color:red;
+  background-color: aqua;
+}
+.Palette{
+display: flex;
+margin-top: 50px;
+flex-direction: column;
+}
+.Palette button{
+  margin-top: 20px;
+} */

@@ -1,0 +1,56 @@
+
+
+.havakutusu{
+    width: auto;
+    width: 600px; 
+    border-radius: 50%;
+    margin:0 auto;
+    padding:40px;
+
+}
+.havakutusuÜst{
+    display: flex;
+    align-items: center;
+    justify-content: stretch; 
+    /* space between de yazabilirsin */
+
+}
+.havakutusu h1{
+    font-size: 24px;
+}
+.havakutusuBaslık{
+    margin:12px 0;
+}
+.yazılar{
+    font-size:18px;
+    color:beige;
+
+}
+
+
+.havakutusuOrta{
+    display: flex;
+    align-items:  center;
+    justify-content: space-between;
+}
+.havakutusuOrtaAna{
+    font-size: 28px;
+    font-weight: bold;
+}
+.havakutusuOrtaDerece{
+    color:yellow;
+    font-weight: bold;
+    font-size: 36px;
+    vertical-align: super;
+}
+.havakutusuİkon{
+    margin-right:15px;
+    color:yellow;
+    font-size: 24px;
+
+
+}
+.havakutusuAlt{
+    align-items: center;
+    display: flex;
+}

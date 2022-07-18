@@ -1,0 +1,12 @@
+.yeter{
+    text-align: center;
+    font-weight: bold;
+    font-size: 32px;
+    color:black;
+
+}
+.yeter img{
+position: relative;
+top:4px;
+padding: 0 12px;
+}
